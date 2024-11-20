@@ -54,4 +54,6 @@ This project was developed as part of an MSc Business Analytics dissertation in 
 - Institution: Bayes Business School (City, University of London)
 
 ## License
-MIT
+MIT License
+Apache License 2.0
+GNU General Public License
