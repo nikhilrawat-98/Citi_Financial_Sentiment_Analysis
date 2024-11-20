@@ -1,2 +1,1 @@
-# MarketPulse Pro
-Sentiment analysis of financial reports, text and articles.
+# Comparitive-Models---Sentiment-analysis
